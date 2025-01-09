@@ -39,22 +39,9 @@
 		C854C0C72D03A1BF00BC8A02 /* Bear-TracksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bear-TracksUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C854C0E82D03BA4100BC8A02 /* Exceptions for "Bear-Tracks" folder in "Bear-Tracks" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = C854C0AB2D03A1BD00BC8A02 /* Bear-Tracks */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		C854C0AE2D03A1BD00BC8A02 /* Bear-Tracks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C854C0E82D03BA4100BC8A02 /* Exceptions for "Bear-Tracks" folder in "Bear-Tracks" target */,
-			);
 			path = "Bear-Tracks";
 			sourceTree = "<group>";
 		};
