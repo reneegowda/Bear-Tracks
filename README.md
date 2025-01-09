@@ -1,2 +1,6 @@
 # Bear-Tracks
-Bear Tracks is a one-stop app for discovering and managing events on Cornell’s campus and in Ithaca. Users can browse events, filter by preferences like time and location, and seamlessly add them to their Google Calendar. 
+Bear Tracks is a comprehensive, user-friendly app designed to help Cornell students and the Ithaca community discover, manage, and attend local events. With Bear Tracks, users can easily browse through a wide range of events happening on campus and throughout Ithaca, including academic talks, social gatherings, club events, and more. The app features a powerful filtering system that allows users to sort events based on specific criteria such as time, location, and personal interests, making it easier to find events that fit their schedules and preferences.
+
+Additionally, Bear Tracks offers seamless integration with Google Calendar, allowing users to add events directly to their calendars with a single tap. This ensures that students never miss an event and can efficiently plan their time. Bear Tracks also features personalized profile pages, where users can track the events they've added, manage their schedules, and receive event recommendations tailored to their interests. With its intuitive interface and practical features, Bear Tracks is the ultimate tool for staying connected to campus life and making the most of the vibrant Ithaca community.
+
+Figma: https://www.figma.com/design/zezESgcof4yav3aQXlRFUy/Bear-Tracks?node-id=1-2&p=f&t=qBuHueYYzNzzzG6i-0
