@@ -1,4 +1,0 @@
-module third_party_IsAppEncrypted {
-umbrella "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public"
-export *
-}

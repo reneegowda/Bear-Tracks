@@ -1,4 +1,0 @@
-module GoogleUtilities_UserDefaults {
-umbrella "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/UserDefaults/Public"
-export *
-}

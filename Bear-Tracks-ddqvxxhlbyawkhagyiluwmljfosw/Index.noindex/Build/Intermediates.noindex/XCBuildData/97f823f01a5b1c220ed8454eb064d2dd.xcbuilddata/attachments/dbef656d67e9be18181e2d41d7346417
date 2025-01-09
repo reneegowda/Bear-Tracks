@@ -1,4 +1,0 @@
-module AppAuth {
-umbrella "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/AppAuth-iOS/Sources/AppAuth"
-export *
-}

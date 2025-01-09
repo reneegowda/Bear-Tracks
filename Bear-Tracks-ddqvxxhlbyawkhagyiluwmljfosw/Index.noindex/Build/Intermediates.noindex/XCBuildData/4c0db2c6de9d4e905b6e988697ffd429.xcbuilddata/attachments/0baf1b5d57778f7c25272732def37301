@@ -1,4 +1,0 @@
-module GoogleSignIn {
-umbrella header "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/Public/GoogleSignIn/GoogleSignIn.h"
-export *
-}
