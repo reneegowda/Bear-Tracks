@@ -1,0 +1,33 @@
+{
+  "" : {
+    "dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GTMAppAuth.build/Debug-xros/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-master.d",
+    "diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GTMAppAuth.build/Debug-xros/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-master.dia",
+    "emit-module-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GTMAppAuth.build/Debug-xros/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GTMAppAuth.build/Debug-xros/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-master-emit-module.dia",
+    "swift-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GTMAppAuth.build/Debug-xros/GTMAppAuth.build/Objects-normal/arm64/GTMAppAuth-master.swiftdeps"
+  },
+  "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GTMAppAuth.build/Debug-xros/GTMAppAuth.build/DerivedSources/resource_bundle_accessor.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/AuthSession.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/AuthSessionDelegate.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/AuthSessionStore.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/GTMOAuth2Compatibility.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainAttribute.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainHelper.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainStore.swift" : {
+
+  }
+}

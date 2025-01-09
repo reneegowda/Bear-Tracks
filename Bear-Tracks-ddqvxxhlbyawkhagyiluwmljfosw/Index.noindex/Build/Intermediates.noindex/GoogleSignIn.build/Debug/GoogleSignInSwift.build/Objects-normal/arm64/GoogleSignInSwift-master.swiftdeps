@@ -1,0 +1,17 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "c6699c34deb5f6619c494b8c3335d6438dc78ca96abdd07922c70e71be168a59"
+build_start_time: [1733526081, 959828000]
+build_end_time: [1733526085, 838045000]
+inputs:
+  ? "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GoogleSignIn.build/Debug/GoogleSignInSwift.build/DerivedSources/resource_bundle_accessor.swift"
+  : !dirty [1733526074, 932931321]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignInSwift/Sources/GoogleSignInButton.swift"
+  : !dirty [1733524435, 25049240]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignInSwift/Sources/GoogleSignInButtonBundleExtensions.swift"
+  : !dirty [1733524435, 25133698]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignInSwift/Sources/GoogleSignInButtonStrings.swift"
+  : !dirty [1733524435, 25213407]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignInSwift/Sources/GoogleSignInButtonStyling.swift"
+  : !dirty [1733524435, 25303616]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignInSwift/Sources/GoogleSignInButtonViewModel.swift"
+  : !dirty [1733524435, 25385950]

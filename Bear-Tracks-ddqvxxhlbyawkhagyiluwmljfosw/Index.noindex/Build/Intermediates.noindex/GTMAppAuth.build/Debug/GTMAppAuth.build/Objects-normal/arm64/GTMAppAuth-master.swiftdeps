@@ -1,0 +1,21 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "87819c49076c19d3d637f0bf46b8ccbd51387c813870547c4a4b250173fa57b8"
+build_start_time: [1733526081, 959920000]
+build_end_time: [1733526085, 840356000]
+inputs:
+  ? "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/GTMAppAuth.build/Debug/GTMAppAuth.build/DerivedSources/resource_bundle_accessor.swift"
+  : !dirty [1733526074, 938334562]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/AuthSession.swift"
+  : !dirty [1733524435, 198450407]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/AuthSessionDelegate.swift"
+  : !dirty [1733524435, 198549866]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/AuthSessionStore.swift"
+  : !dirty [1733524435, 198676283]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/GTMOAuth2Compatibility.swift"
+  : !dirty [1733524435, 198845951]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainAttribute.swift"
+  : !dirty [1733524435, 198930952]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainHelper.swift"
+  : !dirty [1733524435, 199028661]
+  ? "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/GTMAppAuth/GTMAppAuth/Sources/KeychainStore/KeychainStore.swift"
+  : !dirty [1733524435, 199143370]

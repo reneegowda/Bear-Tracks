@@ -2,7 +2,6 @@
 //  Bear_TracksTests.swift
 //  Bear-TracksTests
 //
-//  Created by Surabhi Bachhav on 12/6/24.
 //
 
 import Testing

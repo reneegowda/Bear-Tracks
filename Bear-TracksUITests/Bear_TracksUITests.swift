@@ -2,8 +2,6 @@
 //  Bear_TracksUITests.swift
 //  Bear-TracksUITests
 //
-//  Created by Surabhi Bachhav on 12/6/24.
-//
 
 import XCTest
 

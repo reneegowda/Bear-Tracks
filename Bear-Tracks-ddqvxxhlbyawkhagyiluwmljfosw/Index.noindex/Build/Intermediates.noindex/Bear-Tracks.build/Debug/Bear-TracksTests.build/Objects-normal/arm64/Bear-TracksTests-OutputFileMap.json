@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug/Bear-TracksTests.build/Objects-normal/arm64/Bear-TracksTests-master.d",
+    "diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug/Bear-TracksTests.build/Objects-normal/arm64/Bear-TracksTests-master.dia",
+    "emit-module-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug/Bear-TracksTests.build/Objects-normal/arm64/Bear-TracksTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug/Bear-TracksTests.build/Objects-normal/arm64/Bear-TracksTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug/Bear-TracksTests.build/Objects-normal/arm64/Bear-TracksTests-master.swiftdeps"
+  },
+  "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-TracksTests/Bear_TracksTests.swift" : {
+
+  }
+}

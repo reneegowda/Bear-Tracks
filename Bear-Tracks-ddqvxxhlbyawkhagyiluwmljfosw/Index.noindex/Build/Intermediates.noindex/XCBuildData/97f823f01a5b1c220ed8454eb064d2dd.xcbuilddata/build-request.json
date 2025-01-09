@@ -1,0 +1,61 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1618c08647c95d8cb66c5dc07c864260e84efe6ba60bf8669c1b39ea17e7ec53"
+    }
+  ],
+  "containerPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx15.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks",
+      "indexDataStoreFolderPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Build/Products",
+      "pchPath" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

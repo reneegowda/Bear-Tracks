@@ -1,0 +1,69 @@
+{
+  "" : {
+    "dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug/Promises.build/Objects-normal/arm64/Promises-master.d",
+    "diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug/Promises.build/Objects-normal/arm64/Promises-master.dia",
+    "emit-module-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug/Promises.build/Objects-normal/arm64/Promises-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug/Promises.build/Objects-normal/arm64/Promises-master-emit-module.dia",
+    "swift-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug/Promises.build/Objects-normal/arm64/Promises-master.swiftdeps"
+  },
+  "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug/Promises.build/DerivedSources/resource_bundle_accessor.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+All.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Always.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Any.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Async.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Await.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Catch.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Delay.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Do.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Race.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Recover.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Reduce.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Retry.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Testing.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Then.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Timeout.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Validate.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise+Wrap.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/Promise.swift" : {
+
+  },
+  "/Users/surabhi/Library/Developer/Xcode/DerivedData/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/SourcePackages/checkouts/promises/Sources/Promises/PromiseError.swift" : {
+
+  }
+}

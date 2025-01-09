@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug-iphonesimulator/Bear-Tracks.build/Objects-normal/arm64/Bear-Tracks-master.d",
+    "diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug-iphonesimulator/Bear-Tracks.build/Objects-normal/arm64/Bear-Tracks-master.dia",
+    "emit-module-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug-iphonesimulator/Bear-Tracks.build/Objects-normal/arm64/Bear-Tracks-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug-iphonesimulator/Bear-Tracks.build/Objects-normal/arm64/Bear-Tracks-master-emit-module.dia",
+    "swift-dependencies" : "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug-iphonesimulator/Bear-Tracks.build/Objects-normal/arm64/Bear-Tracks-master.swiftdeps"
+  },
+  "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks-ddqvxxhlbyawkhagyiluwmljfosw/Index.noindex/Build/Intermediates.noindex/Bear-Tracks.build/Debug-iphonesimulator/Bear-Tracks.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks/AppDelegate.swift" : {
+
+  },
+  "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks/Bear_TracksApp.swift" : {
+
+  },
+  "/Users/surabhi/Documents/Bear-Tracks/Bear-Tracks/Bear-Tracks/ContentView.swift" : {
+
+  }
+}
